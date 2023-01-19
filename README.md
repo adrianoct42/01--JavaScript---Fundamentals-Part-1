@@ -6,7 +6,7 @@ My personal studies of JS based on Jonas Schmedtmann course in Udemy. :)
 
 ## HOW TO NAVIGATE
 
-## A organização do código está da seguinte maneira:
+A organização do código está da seguinte maneira:
 
 1- script.js trata-se do desenrolar da aula.
 
