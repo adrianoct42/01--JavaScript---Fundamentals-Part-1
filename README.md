@@ -1,4 +1,4 @@
-# 01--JavaScript---Fundamentals-Part-1
+# 01-JavaScript_-_Fundamentals-Part-1
 My personal studies of JS based on Jonas Schmedtmann course in Udemy. :)
 
 A organização do código está da seguinte maneira:
