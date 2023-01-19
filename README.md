@@ -1,5 +1,4 @@
 # 01-JavaScript_-_Fundamentals-Part-1
-
 My personal studies of JS based on Jonas Schmedtmann course in Udemy. :)
 
 ## HOW TO NAVIGATE
